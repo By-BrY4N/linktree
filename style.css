@@ -1,0 +1,29 @@
+/* style.css */
+#pfp {
+  border-radius: 75px;
+  border: solid 2px;
+}
+
+#name {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(to left, cyan, #78DE5E);
+}
+
+.links {
+  background-color: white;
+  font-size: 14px;
+  border-radius: 20px;
+  padding: 10px;
+  border-radius: 30px;
+  display: block;
+  text-align: center;
+  margin: px;
+  color: slateblue;
+  text-decoration: none;
+}
