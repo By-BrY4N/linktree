@@ -16,8 +16,7 @@ body {
 }
 
 .links {
-  width: auto;
-  length: auto;
+  width: 400px;
   background-color: white;
   font-size: 14px;
   border-radius: 20px;
