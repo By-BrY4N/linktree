@@ -1,7 +1,7 @@
-/* style.css */
 #pfp {
-  border-radius: 75px;
+  width: 40vw
   border: solid 2px;
+  border-radius: 75px;
 }
 
 #name {
@@ -12,19 +12,20 @@
 body {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  background: linear-gradient(to left, cyan, #78DE5E);
+  background: linear-gradient(-45deg, cyan, #78DE5E);
+  background-size: 100vw 100vh;
 }
 
 .links {
-  width: 400px;
+  width: 60vw;
   background-color: white;
-  font-size: 14px;
+  font-size: 3vw;
   border-radius: 20px;
   padding: 10px;
   border-radius: 30px;
   display: block;
   text-align: center;
-  margin: px;
+  margin: 5px;
   color: slateblue;
   text-decoration: none;
 }
